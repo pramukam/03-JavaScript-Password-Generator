@@ -17,7 +17,9 @@ https://github.com/pramukam/03-JavaScript-Password-Generator
 
 This screenshot includes 3 password outputs based on different use inputs.
 
-![Screenshot](Password.ppg)
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 # Project Criteria
 
