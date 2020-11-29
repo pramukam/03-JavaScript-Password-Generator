@@ -17,7 +17,7 @@ https://github.com/pramukam/03-JavaScript-Password-Generator
 
 This screenshot includes 3 password outputs based on different use inputs.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/pramukam/03-JavaScript-Password-Generator/blob/master/Screenshots/Password.png)
 
 # Project Criteria
 
