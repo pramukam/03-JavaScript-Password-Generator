@@ -8,6 +8,8 @@ GitHub pages
 
 GitHub repo
 
+https://github.com/pramukam/03-JavaScript-Password-Generator
+
 
 # Project screenshot with console.log output
 
