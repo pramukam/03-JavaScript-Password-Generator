@@ -62,7 +62,7 @@ function generatePassword() {
     numberCheck=false
     specialCheck=false
 
-    alert ('Your password must contain atleat 8 characters!! Please Click "Generate Password" butoon to Start again')
+    alert ('Your password must contain atleat 8 characters!! Please Click "Generate Password" button to Start again')
   }
   
 // Random password generating loop starts from here
@@ -124,7 +124,7 @@ function generatePassword() {
 
 
   } else {
-    alert('You must select atlease one type of charater and a valid Password length to proceed. Please Click "Generate Password" button to restart the process!');
+    alert('You must select atleast one type of charater and a valid Password length to continue. Please Click "Generate Password" button to restart the process!');
   }
 
 // Futher shuffle generated password for more security
