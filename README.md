@@ -6,6 +6,8 @@ Create an application that generates a random password based on user-selected cr
 
 GitHub pages
 
+https://pramukam.github.io/03-JavaScript-Password-Generator/
+
 GitHub repo
 
 https://github.com/pramukam/03-JavaScript-Password-Generator
@@ -14,6 +16,8 @@ https://github.com/pramukam/03-JavaScript-Password-Generator
 # Project screenshot with console.log output
 
 This screenshot includes 3 password outputs based on different use inputs.
+
+![Screenshot](Password.ppg)
 
 # Project Criteria
 
